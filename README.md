@@ -1,4 +1,4 @@
-# Uptime-Kuma Helm Chart
+# Uptime-Kuma Helm Chart - j
 
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/uptime-kuma)](https://artifacthub.io/packages/search?repo=uptime-kuma)
 
